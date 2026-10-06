@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Trail Buddy sample" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="31.7090" lon="77.1000"><ele>2150</ele><name>Baggi trailhead</name><desc>Start of the walk. Fill water bottles here.</desc></wpt>
+  <wpt lat="31.7215" lon="77.1050"><ele>2400</ele><name>Tea stall and water</name><desc>Last reliable water and snacks (confirm locally).</desc></wpt>
+  <wpt lat="31.7330" lon="77.1040"><ele>2600</ele><name>Forest rest point</name><desc>Shaded stretch. Good place to rest before the final climb.</desc></wpt>
+  <wpt lat="31.7545" lon="77.0963"><ele>2730</ele><name>Prashar Lake and temple</name><desc>Destination. Cold and windy, so layer up.</desc></wpt>
+  <trk><name>Prashar Lake</name><trkseg>
+    <trkpt lat="31.7090" lon="77.1000"><ele>2150</ele></trkpt>
+    <trkpt lat="31.7120" lon="77.1015"><ele>2200</ele></trkpt>
+    <trkpt lat="31.7150" lon="77.1010"><ele>2260</ele></trkpt>
+    <trkpt lat="31.7185" lon="77.1035"><ele>2340</ele></trkpt>
+    <trkpt lat="31.7215" lon="77.1050"><ele>2400</ele></trkpt>
+    <trkpt lat="31.7250" lon="77.1030"><ele>2470</ele></trkpt>
+    <trkpt lat="31.7290" lon="77.1020"><ele>2540</ele></trkpt>
+    <trkpt lat="31.7330" lon="77.1040"><ele>2600</ele></trkpt>
+    <trkpt lat="31.7370" lon="77.1025"><ele>2650</ele></trkpt>
+    <trkpt lat="31.7410" lon="77.1010"><ele>2690</ele></trkpt>
+    <trkpt lat="31.7450" lon="77.0990"><ele>2710</ele></trkpt>
+    <trkpt lat="31.7490" lon="77.0975"><ele>2725</ele></trkpt>
+    <trkpt lat="31.7530" lon="77.0965"><ele>2730</ele></trkpt>
+    <trkpt lat="31.7545" lon="77.0963"><ele>2730</ele></trkpt>
+  </trkseg></trk>
+</gpx>
